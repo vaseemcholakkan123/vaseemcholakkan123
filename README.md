@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammed vaseem cholakkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed vaseem cholakkan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammed-vaseem-cholakkan-a00a00248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed vaseem cholakkan" height="30" width="40" /></a>
 <a href="https://instagram.com/vaseem_cholakkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaseem_cholakkan" height="30" width="40" /></a>
 </p>
 
