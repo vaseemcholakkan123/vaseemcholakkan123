@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaseemcholakkan123&label=Profile%20views&color=0e75b6&style=flat" alt="vaseemcholakkan123" /> </p>
 
-- 💬 Ask me about **Python, Django and React**
+ 💬 Ask me about **Python, Django and React**
 
-- 📫 How to reach me **vaseemcholakkan@gmail.com**
+ 📫 How to reach me **vaseemcholakkan@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://vaseemcholakkan123.github.io/My-Portfolio/](https://vaseemcholakkan123.github.io/My-Portfolio/)
+ 👨‍💻 All of my projects are available at [https://vaseemcholakkan123.github.io/My-Portfolio/](https://vaseemcholakkan123.github.io/My-Portfolio/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lndk0Kzxtik3TUWk9CFtqcQF-F6FXJlA/view?usp=sharing](https://drive.google.com/file/d/1lndk0Kzxtik3TUWk9CFtqcQF-F6FXJlA/view?usp=sharing)
+ 📄 Know about my experiences [https://drive.google.com/file/d/1lndk0Kzxtik3TUWk9CFtqcQF-F6FXJlA/view?usp=sharing](https://drive.google.com/file/d/1lndk0Kzxtik3TUWk9CFtqcQF-F6FXJlA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
