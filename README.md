@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaseem Cholakkan</h1>
 <h3 align="center">A passionate Django + React Full Stack Developer and a Tech Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://www.inventateq.com/c_images/small_mobile.gif" >
+<img align="right" alt="Coding" width="400" src="https://images.weserv.nl/?url=https://www.inventateq.com/c_images/small_mobile.gif?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaseemcholakkan123&label=Profile%20views&color=0e75b6&style=flat" alt="vaseemcholakkan123" /> </p>
 
