@@ -5,7 +5,7 @@
 
  💬 Ask me about **Python, Django and React**
 
- 📫 Reach me @**vaseemcholakkan@gmail.com**
+ 📫 Reach me **vaseemcholakkan@gmail.com**
 
  👨‍💻 All of my projects are available at [https://vaseemcholakkan123.github.io/My-Portfolio/](https://vaseemcholakkan123.github.io/My-Portfolio/)
 
